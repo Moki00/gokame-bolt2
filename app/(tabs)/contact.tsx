@@ -124,11 +124,11 @@ export default function ContactScreen() {
           <Text style={styles.responseTitle}>Our Response Times</Text>
           <View style={styles.responseGrid}>
             <View style={styles.responseItem}>
-              <Text style={styles.responseTime}>< 5 min</Text>
+              <Text style={styles.responseTime}> 5 min</Text>
               <Text style={styles.responseLabel}>Live Chat</Text>
             </View>
             <View style={styles.responseItem}>
-              <Text style={styles.responseTime}>< 2 hours</Text>
+              <Text style={styles.responseTime}> 2 hours</Text>
               <Text style={styles.responseLabel}>Email</Text>
             </View>
             <View style={styles.responseItem}>
